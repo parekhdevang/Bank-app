@@ -38,7 +38,7 @@ def showMenu():
     print('A. Check Balance')
     print('B. Deposit')
     print('C. Withdraw')
-    print('D. Previous Transaction')
+    print('D. Transaction History')
     print('E. Exit')
     print('--------------------------------------')
     option = ''
